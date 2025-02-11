@@ -32,6 +32,7 @@
 | Uri Goldshtein     | @urigo        | The Guild          | Tel Aviv, IL          |
 | Martin Bonnin      | @martinbonnin | Apollo             | Paris, FR             |
 | Jem Gillam         | @jemgillam    | Graphile           | Chandler's Ford, UK   |
+| Jeff Auriemma      | @bignimbus    | Apollo             | Monroe, CT, USA       |
 
 ## Agenda
 
