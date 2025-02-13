@@ -35,6 +35,7 @@
 | Jeff Auriemma      | @bignimbus    | Apollo             | Monroe, CT, USA       |
 | Michael Staib      | @michaelstaib | ChilliCream        | Zurich, CH            |
 | Pascal Senn        | @pascalsenn   | ChilliCream        | Zurich, CH            |
+| Erik Wrede         | @erikwrede    | Strawberry         | Aachen, DE            |
 
 ## Agenda
 
