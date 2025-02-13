@@ -37,6 +37,7 @@
 | Pascal Senn        | @pascalsenn   | ChilliCream        | Zurich, CH            |
 | Erik Wrede         | @erikwrede    | Strawberry         | Aachen, DE            |
 | Doc Jones          | @doc-jones    | TBD                | Raleigh, NC, USA      |
+| Robert Balicki     | @rbalicki2    | Pinterest          | New York, NY, USA     |
 
 ## Agenda
 
