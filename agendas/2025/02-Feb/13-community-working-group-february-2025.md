@@ -36,6 +36,7 @@
 | Michael Staib      | @michaelstaib | ChilliCream        | Zurich, CH            |
 | Pascal Senn        | @pascalsenn   | ChilliCream        | Zurich, CH            |
 | Erik Wrede         | @erikwrede    | Strawberry         | Aachen, DE            |
+| Doc Jones          | @doc-jones    | TBD                | Raleigh, NC, USA      |
 
 ## Agenda
 
