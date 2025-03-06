@@ -45,3 +45,5 @@
    [ready for review agenda items](https://github.com/graphql/community-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc)
    (5m, Host)
 1. Make the Discord channel public? (5m, All)
+2. How to involve the community in GraphQL conf organization? (15m, Martin, All)
+  1. Where is help needed?
