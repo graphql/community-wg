@@ -29,6 +29,8 @@
 |:------------------|:--------------|:-------------|:----------|
 | Saihajpreet Singh | @saihaj       | The Guild    | India     |
 | Martin Bonnin     | @martinbonnin | apollo       | Paris, FR |
+| Jem Gillam        | @jemgillam    | Graphile     | Chandler's Ford UK |
+
 
 ## Agenda
 
