@@ -50,3 +50,4 @@
 1. Make the Discord channel public? (5m, All)
 2. How to involve the community in GraphQL conf organization? (15m, Martin, All)
   1. Where is help needed?
+3. Host monthly wg meetings as a live stream. (Use foundation's YouTube channel) (5 to 10m, Doc, All)
