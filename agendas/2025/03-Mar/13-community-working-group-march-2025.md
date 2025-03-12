@@ -25,13 +25,16 @@
 ## Attendees
 
 <!-- prettier-ignore -->
-| Name              | GitHub        | Organization | Location  |
-|:------------------|:--------------|:-------------|:----------|
-| Saihajpreet Singh | @saihaj       | The Guild    | India     |
-| Martin Bonnin     | @martinbonnin | apollo       | Paris, FR |
-| Jem Gillam        | @jemgillam    | Graphile     | Chandler's Ford UK |
-| Doc Jones         | @doc-jones    | Self         | Raleigh, NC, USA   |
-| An Ngo            | @vliegveld5   | Bol          | The Netherlands   |
+=======
+| Name              | GitHub              | Organization | Location  |
+|:------------------|:--------------      |:-------------|:----------|
+| Saihajpreet Singh | @saihaj             | The Guild    | India     |
+| Martin Bonnin     | @martinbonnin       | apollo       | Paris, FR |
+| Jem Gillam        | @jemgillam          | Graphile     | Chandler's Ford UK |
+| Doc Jones         | @doc-jones          | Self         | Raleigh, NC, USA   |
+| Meenakshi Dhanani | @meenakshi-dhanani  | Postman      | India     |
+| An Ngo            | @vliegveld5         | Bol          | The Netherlands   |
+
 
 ## Agenda
 
