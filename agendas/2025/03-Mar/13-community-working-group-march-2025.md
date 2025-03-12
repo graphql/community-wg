@@ -25,7 +25,6 @@
 ## Attendees
 
 <!-- prettier-ignore -->
-=======
 | Name              | GitHub              | Organization | Location  |
 |:------------------|:--------------      |:-------------|:----------|
 | Saihajpreet Singh | @saihaj             | The Guild    | India     |
