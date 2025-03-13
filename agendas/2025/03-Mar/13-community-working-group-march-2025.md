@@ -36,6 +36,7 @@
 | Erik Wrede        | @erikwrede          | Self          | Aachen, Germany   |
 | Benjie Gillam     | @benjie             | Graphile     | Chandler's Ford, UK |
 | Jeff Auriemma     | @bignimbus          | Apollo       | Monroe, CT, USA |
+| Uri Goldshtein    | @urigo              | The Guild    | Tel Aviv, IL |
 
 
 
@@ -54,6 +55,9 @@
    [ready for review agenda items](https://github.com/graphql/community-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc)
    (5m, Host)
 1. Make the Discord channel public? (5m, All)
+1. [Align on main goals for the working group]([https://github.com/graphql/community-wg/issues/28](https://github.com/graphql/community-wg/issues/28#issuecomment-2718221158)) (15m, Urigo)
+1. [Align on how to manage intiatives (ideas, actions, champions, stages and tracking progress)]([https://github.com/graphql/community-wg/issues/28](https://github.com/graphql/community-wg/issues/28#issuecomment-2718221158)) (10m, Urigo)
+1. [Making progress on the website redesign](https://github.com/graphql/community-wg/issues/21) (5m, Urigo)
 2. How to involve the community in GraphQL conf organization? (15m, Martin, All)
   1. Where is help needed?
 3. Host monthly wg meetings as a live stream. (Use foundation's YouTube channel) (5 to 10m, Doc, All)
