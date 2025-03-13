@@ -35,6 +35,7 @@
 | An Ngo            | @vliegveld5         | Bol          | The Netherlands   |
 | Erik Wrede        | @erikwrede          | Self          | Aachen, Germany   |
 | Benjie Gillam     | @benjie             | Graphile     | Chandler's Ford, UK |
+| Jeff Auriemma     | @bignimbus          | Apollo       | Monroe, CT, USA |
 
 
 
