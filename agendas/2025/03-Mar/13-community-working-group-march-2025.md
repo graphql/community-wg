@@ -33,6 +33,8 @@
 | Doc Jones         | @doc-jones          | Self         | Raleigh, NC, USA   |
 | Meenakshi Dhanani | @meenakshi-dhanani  | Postman      | India     |
 | An Ngo            | @vliegveld5         | Bol          | The Netherlands   |
+| Erik Wrede        | @erikwrede          | Self          | Aachen, Germany   |
+
 
 
 ## Agenda
