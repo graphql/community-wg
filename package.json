@@ -16,6 +16,6 @@
     "proseWrap": "always"
   },
   "dependencies": {
-    "wgutils": "^1.2.4"
+    "wgutils": "^1.2.5"
   }
 }
