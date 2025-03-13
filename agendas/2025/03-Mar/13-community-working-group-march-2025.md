@@ -55,6 +55,7 @@
    [ready for review agenda items](https://github.com/graphql/community-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc)
    (5m, Host)
 1. Make the Discord channel public? (5m, All)
+   - https://github.com/graphql/community-wg/issues/44
 1. [Align on main goals for the working group]([https://github.com/graphql/community-wg/issues/28](https://github.com/graphql/community-wg/issues/28#issuecomment-2718221158)) (15m, Urigo)
 1. [Align on how to manage intiatives (ideas, actions, champions, stages and tracking progress)]([https://github.com/graphql/community-wg/issues/28](https://github.com/graphql/community-wg/issues/28#issuecomment-2718221158)) (10m, Urigo)
 1. [Making progress on the website redesign](https://github.com/graphql/community-wg/issues/21) (5m, Urigo)
