@@ -37,6 +37,8 @@
 | Benjie Gillam     | @benjie             | Graphile     | Chandler's Ford, UK |
 | Jeff Auriemma     | @bignimbus          | Apollo       | Monroe, CT, USA |
 | Uri Goldshtein    | @urigo              | The Guild    | Tel Aviv, IL |
+| Dan Starns        | @danstarns          | Rconnect     | London, UK |
+
 
 
 
