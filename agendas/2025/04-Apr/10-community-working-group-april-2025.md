@@ -22,6 +22,7 @@
 <!-- prettier-ignore -->
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
+| Martin Bonnin | @martinbonnin | Apollo | Paris, FR |
 
 
 ## Agenda
