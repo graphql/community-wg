@@ -23,6 +23,7 @@
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Martin Bonnin | @martinbonnin | Apollo | Paris, FR |
+| Lavan J V | @jvlavan | Self | Chennai, IN |
 
 
 ## Agenda
