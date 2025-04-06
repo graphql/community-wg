@@ -22,7 +22,6 @@
 <!-- prettier-ignore -->
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
-| Martin Bonnin | @martinbonnin | Apollo | Paris, FR |
 | Lavan J V | @jvlavan | Self | Chennai, IN |
 | Doc Jones  | @doc-jones  | Cyberspace  | Raleigh, NC, USA  |
 
