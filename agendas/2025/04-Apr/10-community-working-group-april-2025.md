@@ -24,9 +24,14 @@
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Martin Bonnin | @martinbonnin | Apollo | Paris, FR |
 | Lavan J V | @jvlavan | Self | Chennai, IN |
+| Doc Jones  | @doc-jones  | Cyberspace  | Raleigh, NC, USA  |
 
 
 ## Agenda
+
+1. Introductions (All)
+2. "Empowering the community" defined (Uri - 5 mins) requested by Doc
+3. Survey (Doc and Martin)
 
 1. Agree to Membership Agreement, Participation & Contribution Guidelines and Code of Conduct (1m, Host)
    - [Specification Membership Agreement](https://github.com/graphql/foundation)
