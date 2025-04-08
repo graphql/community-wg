@@ -24,14 +24,12 @@
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Lavan J V | @jvlavan | Self | Chennai, IN |
 | Doc Jones  | @doc-jones  | Cyberspace  | Raleigh, NC, USA  |
+| Jem Gillam | @jemgillam | Graphile | Chandler's Ford, UK | 
 
 
 ## Agenda
 
 1. Introductions (All)
-2. "Empowering the community" defined (Uri - 5 mins) requested by Doc
-3. Survey (Doc and Martin)
-
 1. Agree to Membership Agreement, Participation & Contribution Guidelines and Code of Conduct (1m, Host)
    - [Specification Membership Agreement](https://github.com/graphql/foundation)
    - [Participation Guidelines](https://github.com/graphql/graphql-wg#participation-guidelines)
@@ -42,3 +40,7 @@
 1. Determine volunteers for note taking (1m, Host)
 1. Review agenda (2m, Host)
 1. Check for [ready for review agenda items](https://github.com/graphql/community-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc) (5m, Host)
+1. "Empowering the community" defined (Uri - 5 mins) requested by Doc
+1. Survey (Doc and Martin)
+1. Update for [issue 22](https://github.com/graphql/community-wg/issues/22) (Jem - 5 mins)
+1. Calls for comments on the Ambassador scheme [PR 64](https://github.com/graphql/community-wg/pull/64) [issue 1](https://github.com/graphql/community-wg/issues/1) (Jem - 10 mins?)
