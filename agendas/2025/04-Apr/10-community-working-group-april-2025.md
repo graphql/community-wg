@@ -27,6 +27,7 @@
 | Jem Gillam | @jemgillam | Graphile | Chandler's Ford, UK | 
 | Uri Goldshtein | @urigo | The Guild | Tel Aviv, IL |
 | Saihajpreet Singh | @saihaj | The Guild | India |
+| Benjie           | @benjie       | Graphile           | Chandler's Ford, UK   |
 
 
 ## Agenda
