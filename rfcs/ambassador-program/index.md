@@ -42,7 +42,7 @@ One or more of the following:
 
 ### Foundation Tasks
 
-* Grant available for travel expenses for approved conference & meetup talks
+* Ambassadors may apply for travel funding to approved conference & meetup talks, applications to be evaluated on a case-by-case basis
 * Microgrant (or honorarium) available for content creation 
     * Where is this content hosted? 
 * Promotion of Ambassador material - conference talk videos and created content
