@@ -28,6 +28,7 @@
 | Uri Goldshtein | @urigo | The Guild | Tel Aviv, IL |
 | Saihajpreet Singh | @saihaj | The Guild | India |
 | Benjie           | @benjie       | Graphile           | Chandler's Ford, UK   |
+| Jeff Auriemma    | @bignimbus    | Apollo             | Monroe, CT, USA       |
 
 
 ## Agenda
