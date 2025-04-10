@@ -26,6 +26,7 @@
 | Doc Jones  | @doc-jones  | Cyberspace  | Raleigh, NC, USA  |
 | Jem Gillam | @jemgillam | Graphile | Chandler's Ford, UK | 
 | Uri Goldshtein | @urigo | The Guild | Tel Aviv, IL |
+| Saihajpreet Singh | @saihaj | The Guild | India |
 
 
 ## Agenda
