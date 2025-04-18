@@ -39,17 +39,28 @@ One or more of the following:
 * Local gathering organization
 * Written GraphQL content
 * Video / audio GraphQL content
+* Building demo apps
+* Mentorship hours
+* Community Discord moderation
 
 ### Foundation Tasks
 
+* Quarterly meeting with the Foundation / TSC reps to give updates about the general direction of the project and an opportunity for Q&A
+    * 15 minute presentation-style  
+    * followed by Q&A  
 * Ambassadors may apply for travel funding to approved conference & meetup talks, applications to be evaluated on a case-by-case basis
-* Microgrant (or honorarium) available for content creation 
-    * Where is this content hosted? 
+* Microgrant (or honorarium) available for content creation on GraphQL Foundation platforms
+    * Where is this content hosted?  
+        * Where ever the Ambassador is comfortable:- 
+            * Personal blog / website
+            * GraphQL Foundation platform (blog, youtube, etc)
+            * Third party platform (dev.to, Medium, LinkedIn etc)
 * Promotion of Ambassador material - conference talk videos and created content
 * Promotion of the Ambassador as a go-to GraphQL expert
     * Website profile
     * Longer task: biographies / interviews with each Ambassador
     * Credly badge
+* An Ambassador role on the community Discord and an associated private channel for networking and discussions with Foundation / TSC / community reps
 * Exclusive GraphQL swag eg Ambassador hoodie
 
 ### Ambassador Requirements
@@ -67,15 +78,23 @@ While the wider GraphQL community abides by the [contributor covenant code of co
 ### Process
 
 Yearly program
- * 1 year term? Or mirror the TSC and use a 2 year term  
+ * 1 year term 
+    * Applications open year round
+    * Applications considered each quarter: beginning of Jan, Apr, Jul, Oct
+    * Successful applicants onboarded into program during  Feb, May, Aug, Nov
+    * New wave of Ambassadors announced during Mar, Jun, Sep, Dec
 
 How many Ambassadors is a reasonable number?  
 
 Self-nominations and nominations from within the community; who should review these?  
 
-Process for removing an Ambassador? And the reason to do so?  
+Requirements to become an Ambassador
+ * No set requirements as such
+ * Some questions to go in the nomination: 
+    * Briefly describe your familiarity with GraphQL. Consider including any open source projects you work on, any working groups you’ve attended, spec proposals you’ve been involved with, talks you’ve given or media you've published (books, videos, podcasts, newsletters, tutorials, blogs, etc)
+    * Do you currently hold any formal leadership roles within the GraphQL ecosystem? 
 
-Content generated will need to be reviewed before being promoted  
+Process for removing an Ambassador? And the reason to do so?  
 
 Travel expenses for conferences & meetups: 
   * Wait for the talk to be accepted through the meetup CfP process  
