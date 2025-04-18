@@ -1,17 +1,7 @@
 ## GraphQL Ambassador Program
 
 The following is the beginnings of a document outlining the goals, outcomes and tasks of an Ambassador program. 
-
-### Alternative Names
-
-* Champion - already used on the technical side - Champions of spec edits
-* Evangelist - usually out of favour nowadays
-* Advocate - suggests a salaried role?
-* Leader, Star, Hero, Captain, Expert - “Star” we have already used in a recognition role
-* GraphQL Fellowship 
-
-> [!NOTE]
-> “Ambassador” seems to be readily accepted, I don't think we need to discuss the term any further.   
+ 
 
 ### Ambassador Initiative Goals
 
@@ -89,7 +79,7 @@ How many Ambassadors is a reasonable number?
 Self-nominations and nominations from within the community; who should review these?  
 
 Requirements to become an Ambassador
- * No set requirements as such
+ * No set requirements as such, the section "Ambassador Requirements" above gives an idea of the type of people we are looking for
  * Some questions to go in the nomination: 
     * Briefly describe your familiarity with GraphQL. Consider including any open source projects you work on, any working groups you’ve attended, spec proposals you’ve been involved with, talks you’ve given or media you've published (books, videos, podcasts, newsletters, tutorials, blogs, etc)
     * Do you currently hold any formal leadership roles within the GraphQL ecosystem? 
@@ -100,3 +90,11 @@ Travel expenses for conferences & meetups:
   * Wait for the talk to be accepted through the meetup CfP process  
   * Review the talk proposal to ensure alignment with the Program  
   * Can the payment be made beforehand rather than in arrears?   
+
+### Offboarding and Alumni Network
+
+Upon completing a successful term, Ambassadors join our Alumni Network:
+ * Continued Ambassador Discord channel to answer questions from new Ambassadors.
+ * Priority CFP notifications for GraphQL Foundation events
+ * Annual Alumni spotlight blog series
+ * What else to include here? 
