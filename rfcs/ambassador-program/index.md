@@ -56,7 +56,6 @@ One or more of the following:
 ### Ambassador Requirements
 
 * Highly knowledgeable about GraphQL and readily able to articulate those ideas 
-* Technical in tone, without sounding like they are on a sales team
 * Be a model community member: Adhering to the code of conduct especially when critical of GraphQL or defending it to others criticism, remaining respectful, constructive and fair 
 * Do not come across to other community members as selling another product, service or agenda
 
