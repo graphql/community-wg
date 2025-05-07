@@ -22,7 +22,7 @@
 <!-- prettier-ignore -->
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
-  Doc Jones          doc-jones        Cyberspace           USA
+| Doc Jones        | doc-jones     |  Cyberspace        |  USA              |
 
 
 ## Agenda
