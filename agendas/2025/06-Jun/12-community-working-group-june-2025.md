@@ -23,6 +23,7 @@
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Jem G            | @jemgillam    | Graphile           | Chandlers Ford, UK    | 
+| Erik             | @erikwrede    | Self               | Germany               | 
 
 ## Agenda
 
