@@ -25,6 +25,7 @@
 | Jem G            | @jemgillam    | Graphile           | Chandlers Ford, UK    | 
 | Erik             | @erikwrede    | Self               | Germany               | 
 | Benjie Gillam    | @benjie       | Graphile           | Chandler's Ford, UK   |
+| Martin Bonnin    | @martinbonnin | Apollo             | Paris, FR             |
 
 ## Agenda
 
