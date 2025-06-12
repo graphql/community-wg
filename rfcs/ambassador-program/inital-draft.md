@@ -32,6 +32,7 @@ One or more of the following:
 * Building demo apps
 * Mentorship hours
 * Community Discord moderation
+* Cross-project collaboration with open source projects outside of the GraphQL GitHub organization
 
 ### Foundation Tasks
 
