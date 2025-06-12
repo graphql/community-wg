@@ -25,6 +25,7 @@
 | Jem G            | @jemgillam    | Graphile           | Chandlers Ford, UK    | 
 | Erik             | @erikwrede    | Self               | Germany               | 
 | Benjie Gillam    | @benjie       | Graphile           | Chandler's Ford, UK   |
+| Uri Goldshtein   | @urigo        | The Guild          | Tel Aviv, IL          |
 | Martin Bonnin    | @martinbonnin | Apollo             | Paris, FR             |
 
 ## Agenda
@@ -40,4 +41,7 @@
 1. Review agenda (2m, Host)
 1. Check for [ready for review agenda items](https://github.com/graphql/community-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc) (5m, Host)
 1. Guidance sought: What are the next steps to launch the Ambassadors Program? (15m, Jem)
+1. Latest updates on the new graphql.org design and GraphQL Conf website (10m, Uri)
 1. 2025 designs: [GraphQL stars](https://github.com/graphql/community-wg/issues/82) and [slide deck](https://github.com/graphql/community-wg/issues/67) (10m, Benjie)
+1. Some callouts for feedback (graphql-js docs, AI content, GraphiQL latest versions) (5m, Uri)
+1. Thoughts about collaborating with API Days Paris (10m, Uri)
