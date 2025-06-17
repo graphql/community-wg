@@ -1,6 +1,6 @@
 ## GraphQL Ambassador Program
 
-The following is an overview of the proposed GraphQL Ambassador Program for the Ambassadors themselves, with the intention that this becomes the page on the website outlining the goals, outcomes and tasks of the program, similar to other initiatives like [Community Grants](https://graphql.org/community/foundation/community-grant/) and the [Local Initiative](https://graphql.org/community/foundation/local-initiative/). 
+The following is an overview of the proposed GraphQL Ambassador Program for the Ambassadors themselves, with the intention that this becomes the page on the website outlining the goals, outcomes and tasks of the program; similar to other initiatives like [Community Grants](https://graphql.org/community/foundation/community-grant/) and the [Local Initiative](https://graphql.org/community/foundation/local-initiative/). 
 
 ### Ambassador Initiative Goals
 
@@ -22,40 +22,40 @@ There are also benefits to the Ambassador:
 * Highly knowledgeable about GraphQL and readily able to articulate those ideas 
 * Be a model community member: Adhering to the code of conduct especially when critical of GraphQL or defending it to others criticism, remaining respectful, constructive and fair 
 * Do not come across to other community members as selling another product, service or agenda
-* Already participating in one or more of: 
+* Agree to have your face, name, chosen socials and other relevant information displayed on the "people"/"ambassadors" graphql.org page 
+* Already participating in one or more of the Ambassador Tasks outlined below
 
-1.  **Community Leadership (Minimum 1 year)**
+### Ambassador Tasks
+
+GraphQL Ambassadors are an important touchstone for people interested in GraphQL to learn more about it in a friendly and constructive way. 
+
+As an Ambassador, you will do four or more ambassador tasks throughout your one year term. Your can do the same task four times, or a mixture of tasks.
+
+Ambassador tasks include:
+
+1.  **Community Leadership**
     * Local Gathering organizer
     * Program committee member for a GraphQL focused event
     * Organize GraphQL related events
+    * Mentorship hours
+    * GraphQL Foundation community Discord moderation
 1. **Public Speaking**
     * Speaking at industry or GraphQL Foundation events about GraphQL or GraphQL projects
 1. **GraphQL Focused Content Creation**
     * Producing written content, both on GraphQL Foundation platforms and in other places
     * Have written a GraphQL focused book
     * Producing video and/or audio content, either on GraphQL Foundation platforms or in other places 
+    * Building demo apps
 1. **Active Contribution to a GraphQL Foundation Project or Specification** 
     * Have served on the Technical Steering Committee
     * Have actively maintained a GraphQL project or reference implementation 
-    * Regular attendance at the GraphQL Working group or sub-working groups (Minimum 1 year)
+    * Attendance at the GraphQL working group or sub-working groups
 1. **Maintainer or A Main Contributor of a Key Open-Source GraphQL Related Project**
     * For example, GraphQL implementations
-
-
-### Ambassador Tasks
-
-GraphQL Ambassadors will be an important touchstone for people interested in GraphQL to learn more about it in a friendly and constructive way. 
-
-They will do one or more of the following throughout their one year term:
-
-* Conference & meetup talks on GraphQL
-* Local gathering organization
-* Written GraphQL content, both on GraphQL platforms and off
-* Video / audio GraphQL content, both on GraphQL platforms and off
-* Building demo apps
-* Mentorship hours
-* GraphQL Community Discord moderation
-* Cross-project collaboration with open source projects outside of the GraphQL GitHub organization
+1. **Outreach for GraphQL Foundation initiatives**
+    * Discussion and guidance helping a non-Foundation project to adopt, test and provide feedback on a GraphQL Specification proposal
+    * Organizing a venue for a GraphQL Local
+    * Media outreach with a measurable impact eg publication in a major tech outlet or mainstream media 
 
 ### What the Foundation offers
 

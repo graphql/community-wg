@@ -33,14 +33,29 @@ They will do four or more ambassador tasks throughout their one year term. They 
 
 Ambassador tasks include:
 
-* Vendor-neutral conference & meetup talks related to GraphQL
-* Local gathering organization
-* Written GraphQL content, both on GraphQL platforms and off
-* Video / audio GraphQL content, both on GraphQL platforms and off
-* Building demo apps
-* Mentorship hours
-* GraphQL Community Discord moderation
-* Cross-project collaboration with open source projects outside of the GraphQL GitHub organization
+1.  **Community Leadership**
+    * Local Gathering organizer
+    * Program committee member for a GraphQL focused event
+    * Organize GraphQL related events
+    * Mentorship hours
+    * GraphQL Foundation community Discord moderation
+1. **Public Speaking**
+    * Speaking at industry or GraphQL Foundation events about GraphQL or GraphQL projects
+1. **GraphQL Focused Content Creation**
+    * Producing written content, both on GraphQL Foundation platforms and in other places
+    * Have written a GraphQL focused book
+    * Producing video and/or audio content, either on GraphQL Foundation platforms or in other places 
+    * Building demo apps
+1. **Active Contribution to a GraphQL Foundation Project or Specification** 
+    * Have served on the Technical Steering Committee
+    * Have actively maintained a GraphQL project or reference implementation 
+    * Attendance at the GraphQL working group or sub-working groups
+1. **Maintainer or A Main Contributor of a Key Open-Source GraphQL Related Project**
+    * For example, GraphQL implementations
+1. **Outreach for GraphQL Foundation initiatives**
+    * Discussion and guidance helping a non-Foundation project to adopt, test and provide feedback on a GraphQL Specification proposal
+    * Organizing a venue for a GraphQL Local
+    * Media outreach with a measurable impact eg publication in a major tech outlet or mainstream media 
 
 ### What the Foundation offers
 
