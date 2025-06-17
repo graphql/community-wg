@@ -62,7 +62,7 @@ Ambassador tasks include:
 * Quarterly meeting with Foundation / TSC reps to give updates about the general direction of the project and an opportunity for Q&A
     * 15 minute presentation-style  
     * followed by Q&A  
-    * time also allowed for the Foundation / TSC reps to ask for the Ambassadors' feedback on the current directions of the GraphQL project, be that technical (eg Specification RFCs), or community initative focused 
+    * time also allowed for the Foundation / TSC reps to ask for the Ambassadors' feedback on the current directions of the GraphQL project, be that technical (eg Specification RFCs), or community initiative focused 
 * Promotion of the Ambassador as a go-to GraphQL community leader
     * Website profile
     * Biographies / interviews with each Ambassador
