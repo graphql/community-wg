@@ -1,3 +1,5 @@
+NOTE: this document is out of date and kept for historic purposes only; please see instead [overview-for-organizers.md](./overview-for-organizers.md).
+
 ## GraphQL Ambassador Program
 
 The following is the beginnings of a document outlining the goals, outcomes and tasks of an Ambassador program. 
