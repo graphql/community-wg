@@ -20,17 +20,20 @@ There are also benefits to the Ambassador:
 ### Ambassador Requirements
 
 * Highly knowledgeable about GraphQL and readily able to articulate those ideas 
-* Be a model community member: Adhering to the code of conduct especially when critical of GraphQL or defending it to others criticism, remaining respectful, constructive and fair 
-* Do not come across to other community members as selling another product, service or agenda
-* Already participating in one or more of the Ambassador Tasks outlined below  
+* Be a model community member: Adhering to the standards of excellence especially when critical of GraphQL or defending it to others criticism, remaining respectful, constructive and fair 
+* Do not come across to other community members as selling another product, service or agenda when acting as an ambassador
+* Already participating in one or more of the Ambassador Tasks outlined below
+* Agree to have their face, name, chosen socials and other relevant information displayed on the "people"/"ambassadors" page
 
 ### Ambassador Tasks
 
 GraphQL Ambassadors will be an important touchstone for people interested in GraphQL to learn more about it in a friendly and constructive way. 
 
-They will do one or more of the following throughout their one year term:
+They will do four or more ambassador tasks throughout their one year term. They can do the same task four times, or a mixture of tasks.
 
-* Conference & meetup talks on GraphQL
+Ambassador tasks include:
+
+* Vendor-neutral conference & meetup talks related to GraphQL
 * Local gathering organization
 * Written GraphQL content, both on GraphQL platforms and off
 * Video / audio GraphQL content, both on GraphQL platforms and off
@@ -44,8 +47,8 @@ They will do one or more of the following throughout their one year term:
 * Quarterly meeting with Foundation / TSC reps to give updates about the general direction of the project and an opportunity for Q&A
     * 15 minute presentation-style  
     * followed by Q&A  
-    * time also allowed for the Foundation / TSC reps to ask for the Ambassadors' feedback on the current directions of the GraphQL project, be that technical (eg Specification RFCs), or community imitative focused 
-* Promotion of the Ambassador as a go-to GraphQL expert
+    * time also allowed for the Foundation / TSC reps to ask for the Ambassadors' feedback on the current directions of the GraphQL project, be that technical (eg Specification RFCs), or community initative focused 
+* Promotion of the Ambassador as a go-to GraphQL community leader
     * Website profile
     * Biographies / interviews with each Ambassador
     * Credly badge
@@ -56,7 +59,7 @@ They will do one or more of the following throughout their one year term:
 * Ambassadors may apply for travel funding to approved conference & meetup talks, applications to be evaluated on a case-by-case basis
 * An honorarium available for content creation on a case-by-case basis
 
-### Ambassador Code of Conduct
+### Ambassador Standards of Excellence
 
 While the wider GraphQL community abides by the [contributor covenant code of conduct](https://graphql.org/codeofconduct/), stronger set of standards is needed for the Ambassador Program. This is because the Foundation will be endorsing these people as representatives and experts. We can look to the [CNCF Ambassador Program Standards of Excellence](https://www.cncf.io/people/ambassadors/program-standards/) as a good indicator of what this should be. The beginnings of a document is here, see [standards-of-excellence.md](./standards-of-excellence.md)
 
@@ -69,13 +72,13 @@ Yearly program
     * Applications open year round
     * Applications received by a group email address and should be acknowledged swiftly
     * Applications to be considered by TSC members, select Foundation members and select community working group members. Once we have the first cohort of Ambassadors accepted, Ambassadors themselves can also consider the applications.  
-    * Applicants need at least one approval and no objections.  
+    * Applicants need at least one approval, any objections are to be investigated.
     * A new wave of Ambassadors announced quarterly. The first announcement we are hoping can coincide with the GraphQL Conference in September 2025.  
 
 * Applications can be from the prospective Ambassador or a nomination from a community member. 
 * Foundation members will be asked to nominate an Ambassador from within their organization, and to nominate a second Ambassador from outside their organization
 * TSC members will be invited to apply when they are welcomed to the TSC  
-* The Ambassador term is a year long, Ambassadors will be invited to join again at the end of their term  
+* The Ambassador term is a year long, Ambassadors who continue to meet the expectations will be invited to join again at the end of their term
 
 #### Removal of an Ambassador
 
@@ -93,6 +96,7 @@ Yearly program
 * Ambassador applies for an honorarium each time, in a process similar to the Community Grant
 * There will be a maximum yearly amount available, paid from the Marketing budget 
 * We should publish a guide to the amounts available (once this is agreed)
+* A revision process is expected
 
 ### Offboarding and Alumni Network
 
