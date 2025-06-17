@@ -1,9 +1,9 @@
 | This is an open meeting: To attend, edit and PR this file. (Edit: ✎ above, or press "e") |
 | ---------------------------------------------------------------------------------------- |
 
-# Community Working Group — April 2025
+# Community Working Group — September 2025
 
-- **Date & Time**: [April 10, 2025, 8:00 – 9:00 AM PDT](https://www.timeanddate.com/worldclock/converter.html?iso=20250410T150000&p1=224&p2=179&p3=136&p4=268&p5=367&p6=438&p7=248&p8=240)
+- **Date & Time**: [September 11, 2025, 8:00 – 9:00 AM PDT](https://www.timeanddate.com/worldclock/converter.html?iso=20250911T150000&p1=224&p2=179&p3=136&p4=268&p5=367&p6=438&p7=248&p8=240)
   - View the [calendar][], or subscribe ([Google Calendar][], [ical file][]).
   - _Please Note:_ The date or time may change. Please check this agenda the
     week of the meeting to confirm. While we try to keep all calendars accurate,
@@ -22,18 +22,10 @@
 <!-- prettier-ignore -->
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
-| Lavan J V | @jvlavan | Self | Chennai, IN |
-| Doc Jones  | @doc-jones  | Cyberspace  | Raleigh, NC, USA  |
-| Jem Gillam | @jemgillam | Graphile | Chandler's Ford, UK | 
-| Uri Goldshtein | @urigo | The Guild | Tel Aviv, IL |
-| Saihajpreet Singh | @saihaj | The Guild | India |
-| Benjie           | @benjie       | Graphile           | Chandler's Ford, UK   |
-| Jeff Auriemma    | @bignimbus    | Apollo             | Monroe, CT, USA       |
 
 
 ## Agenda
 
-1. Introductions (All)
 1. Agree to Membership Agreement, Participation & Contribution Guidelines and Code of Conduct (1m, Host)
    - [Specification Membership Agreement](https://github.com/graphql/foundation)
    - [Participation Guidelines](https://github.com/graphql/graphql-wg#participation-guidelines)
@@ -43,9 +35,4 @@
 1. Introduction of attendees (5m, Host)
 1. Determine volunteers for note taking (1m, Host)
 1. Review agenda (2m, Host)
-1. Check for [ready for review agenda items](https://github.com/graphql/community-wg/issues?q=is:issue%20is:open%20label:%22Ready%20for%20review%22%20sort:updated-desc%20) (5m, Host)
-1. "Empowering the community" defined (Uri - 5 mins) requested by Doc
-1. Survey (Doc and Martin)
-1. Update for [issue 22](https://github.com/graphql/community-wg/issues/22) (Jem - 5 mins)
-1. Calls for comments on the Ambassador scheme [PR 64](https://github.com/graphql/community-wg/pull/64) [issue 1](https://github.com/graphql/community-wg/issues/1) (Jem - 10 mins?)
-1. Short update on the [new graphql.org design initative](https://github.com/graphql/community-wg/issues/21) (Uri - 10 mins)
+1. Check for [ready for review agenda items](https://github.com/graphql/community-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc) (5m, Host)
