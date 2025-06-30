@@ -36,7 +36,7 @@ Ambassador tasks include:
     * Mentorship hours
     * GraphQL Foundation community Discord moderation
 1. **Public Speaking**
-    * Speaking at industry or GraphQL Foundation events about GraphQL or GraphQL projects
+    * Speaking at industry, community or GraphQL Foundation events about GraphQL or GraphQL projects
 1. **GraphQL Focused Content Creation**
     * Producing written content, both on GraphQL Foundation platforms and in other places
     * Have written a GraphQL focused book
