@@ -10,33 +10,36 @@ and the
 
 ### Become a GraphQL Ambassador
 
+_(If you're nominating someone else, please use the Nomination form.)_
+
 GraphQL Ambassadors are trusted go-to community leaders driven by a passion for
 GraphQL projects and strive to nurture the growing GraphQL community through
 collaboration, education and outreach.
 
 As an Ambassador, you also gain the following:
 
-- Professional recognition for your expertise and contributions to the GraphQL
+- Professional recognition for expertise and contributions to the GraphQL
   community
-- Network with other GraphQL leaders, both in your local community and online
-- Closer relationship with the GraphQL Foundation & project, including
+- Opportunities to network with other GraphQL leaders, both in your local
+  community and online
+- A closer relationship with the GraphQL Foundation & project, including
   up-to-date news and insights on upcoming Specification edits and working group
   topics
-- Receive support, funding and mentoring from the GraphQL Foundation for hosting
-  events, speaking and creating content
-- Enjoy exclusive benefits and swag
+- Support, funding and mentoring from the GraphQL Foundation for hosting events,
+  speaking and creating content
+- Exclusive benefits and swag
 
 ### Ambassador Requirements
 
 - Knowledgeable about GraphQL and readily able to articulate those ideas
-- Be a model community member: Adhering to the Standards of Excellence
-  especially when critical of GraphQL or defending it to others criticism,
-  remaining respectful, constructive and fair
+- A model community member: adhering to the Standards of Excellence especially
+  when critical of GraphQL or defending it against others' criticism; remaining
+  respectful, constructive and fair
 - Do not come across to other community members as selling another product,
   service or agenda when acting as an Ambassador
 - Agree to have your face, name, chosen socials and other relevant information
   displayed on the "people"/"Ambassadors" webpage
-- Already participating in one or more of the Ambassador tasks outlined below
+- Already participate in one or more of the Ambassador tasks outlined below
 
 ### Ambassador Tasks
 
@@ -50,32 +53,32 @@ Ambassador tasks include:
 
 1.  **Community Leadership**
     - Local Gathering organizer
-    - Program committee member for a GraphQL focused event
-    - Organize GraphQL related events
+    - Organizer/program planner for a GraphQL focused event, conference track,
+      or similar
     - Mentorship hours
     - GraphQL Foundation community Discord moderation
 1.  **Public Speaking**
-    - Speaking at industry, community or GraphQL Foundation events about GraphQL
-      or GraphQL projects
+    - Speaking at industry or GraphQL Foundation events about GraphQL or GraphQL
+      projects
 1.  **GraphQL Focused Content Creation**
-    - Producing written content, both on GraphQL Foundation platforms and in
-      other places
+    - Producing written content, both on GraphQL Foundation platforms and
+      elsewhere
     - Have written a GraphQL focused book
     - Producing video and/or audio content, either on GraphQL Foundation
-      platforms or in other places
+      platforms or elsewhere
     - Building demo apps
 1.  **Active Contribution to a GraphQL Foundation Project or Specification**
-    - Have served on the Technical Steering Committee
-    - Have actively maintained a GraphQL project or reference implementation
-    - Attendance at the GraphQL working group or sub-working groups
+    - Have held a formal role in a GraphQL Foundation project
+    - Shared valuable insights or feedback at the GraphQL working group or
+      sub-working groups
 1.  **Maintainer or A Main Contributor of a Key Open-Source GraphQL Related
     Project**
-    - For example, GraphQL implementations
+    - For example, GraphQL clients, servers, tooling or implementations
 1.  **Outreach for GraphQL Foundation initiatives**
     - Discussion and guidance helping a non-Foundation project to adopt, test
       and provide feedback on a GraphQL Specification proposal
     - Organizing a venue for a GraphQL Local
-    - Media outreach with a measurable impact eg publication in a major tech
+    - Media outreach with a measurable impact e.g. publication in a major tech
       outlet or mainstream media
 
 _Note: content should align with open-source principles and not be behind
