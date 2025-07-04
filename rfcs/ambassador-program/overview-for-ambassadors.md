@@ -10,8 +10,6 @@ and the
 
 ### Become a GraphQL Ambassador
 
-_(If you're nominating someone else, please use the Nomination form.)_
-
 GraphQL Ambassadors are trusted go-to community leaders driven by a passion for
 GraphQL projects and strive to nurture the growing GraphQL community through
 collaboration, education and outreach.
@@ -58,7 +56,7 @@ Ambassador tasks include:
     - Mentorship hours
     - GraphQL Foundation community Discord moderation
 1.  **Public Speaking**
-    - Speaking at industry or GraphQL Foundation events about GraphQL or GraphQL
+    - Speaking at industry, community or GraphQL Foundation events about GraphQL or GraphQL
       projects
 1.  **GraphQL Focused Content Creation**
     - Producing written content, both on GraphQL Foundation platforms and
