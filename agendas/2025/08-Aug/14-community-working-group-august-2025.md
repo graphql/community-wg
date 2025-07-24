@@ -20,9 +20,10 @@
 ## Attendees
 
 <!-- prettier-ignore -->
-| Name             | GitHub        | Organization       | Location              |
-| :--------------- | :------------ | :----------------- | :-------------------- |
-| Martin Bonnin | martinbonnin |  | Paris, FR |
+| Name            | GitHub         | Organization   | Location  |
+|:----------------|:---------------|:---------------|:----------|
+| Martin Bonnin   | martinbonnin   |                | Paris, FR |
+| Jonathan Rainer | jonathanrainer | Apollo GraphQL | York, UK  |
 
 
 ## Agenda
