@@ -22,7 +22,6 @@
 <!-- prettier-ignore -->
 | Name            | GitHub         | Organization   | Location  |
 |:----------------|:---------------|:---------------|:----------|
-| Jonathan Rainer | jonathanrainer | Apollo GraphQL | York, UK  |
 
 
 ## Agenda
