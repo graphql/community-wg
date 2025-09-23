@@ -4,10 +4,10 @@ This working group is a subcommittee of the
 [GraphQL Working Group](https://github.com/graphql/graphql-wg) with the
 following primary purpose:
 
-Serve as the steward of GraphQL's global narrative and market positioning in the
-technology ecosystem. We develop and execute strategic initiatives that
-reinforce GraphQL's value proposition while fostering an engaged, educated, and
-expanding community.
+> Serve as the steward of GraphQL's global narrative and market positioning in the
+> technology ecosystem. We develop and execute strategic initiatives that
+> reinforce GraphQL's value proposition while fostering an engaged, educated, and
+> expanding community.
 
 Anyone in the public GraphQL community may attend a meeting of this
 subcommittee, provided they first sign the
