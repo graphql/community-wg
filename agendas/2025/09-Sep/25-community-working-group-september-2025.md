@@ -26,6 +26,7 @@
 | Martin Bonnin | martinbonnin | Apollo GraphQL | Paris, FR |
 | Jem Gillam      | jemgillam      | Graphile       | Chandler's Ford, UK |
 | Benjie Gillam   | benjie         | Graphile       | Chandler's Ford, UK |
+| Vanessa Johnson  | @vanessamj99 | The New York Times | New York City, NY, US |
 
 ## Agenda
 
@@ -42,3 +43,4 @@
 1. GraphQL day at apidays Paris 2025
 1. GraphQL at FOSDEM 2026 (10m, Jem)
 1. GraphQL Ambassadors update (5m, Jem)
+1. GSoC 2026 Participation Idea
