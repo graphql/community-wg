@@ -28,6 +28,7 @@
 | Jem Gillam      | jemgillam      | Graphile       | Chandler's Ford, UK |
 | Benjie Gillam   | benjie         | Graphile       | Chandler's Ford, UK |
 | Vanessa Johnson  | @vanessamj99 | The New York Times | New York City, NY, US |
+| Jeff Auriemma    | @bignimbus   | Apollo GraphQL     | Monroe, CT, US        |
 
 ## Agenda
 
