@@ -22,7 +22,6 @@
 <!-- prettier-ignore -->
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
-| Jem Gillam       | @jemgillam    | Graphile           | Chandlers Ford, UK    | 
 
 
 ## Agenda
