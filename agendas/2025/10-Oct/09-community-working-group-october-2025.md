@@ -23,6 +23,7 @@
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Jem Gillam       | @jemgillam    | Graphile           | Chandlers Ford, UK    | 
+| Martin Bonnin    | @martinbonnin | Apollo             | Paris, FR             | 
 
 
 ## Agenda
@@ -38,3 +39,5 @@
 1. Review agenda (2m, Host)
 1. Check for [ready for review agenda items](https://github.com/graphql/community-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc) (5m, Host)
 1. Reminder: [grants available for key initiatives](https://graphql.org/community/foundation/community-grant/) (1m, Host)
+1. Update on apidays Paris (5min, Martin)
+1. Removing the CLA for community contributions (5min, Martin)
