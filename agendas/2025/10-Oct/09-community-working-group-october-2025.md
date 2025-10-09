@@ -22,8 +22,9 @@
 <!-- prettier-ignore -->
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
-| Jem Gillam       | @jemgillam    | Graphile           | Chandlers Ford, UK    | 
-| Martin Bonnin    | @martinbonnin | Apollo             | Paris, FR             | 
+| Jem Gillam       | @jemgillam    | Graphile           | Chandlers Ford, UK    |
+| Martin Bonnin    | @martinbonnin | Apollo             | Paris, FR             |
+| Benjie Gillam    | @benji        | Graphile           | Chandlers Ford, UK    |
 
 
 ## Agenda
