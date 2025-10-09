@@ -24,7 +24,7 @@
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Jem Gillam       | @jemgillam    | Graphile           | Chandlers Ford, UK    |
 | Martin Bonnin    | @martinbonnin | Apollo             | Paris, FR             |
-| Benjie Gillam    | @benji        | Graphile           | Chandlers Ford, UK    |
+| Benjie Gillam    | @benjie       | Graphile           | Chandlers Ford, UK    |
 
 
 ## Agenda
