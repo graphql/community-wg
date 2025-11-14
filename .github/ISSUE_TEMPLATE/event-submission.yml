@@ -3,6 +3,8 @@ description: Share a meetup or conference with the GraphQL community
 title: "Event submission: "
 labels:
   - event
+assignees:
+  - jemgillam
 body:
   - type: markdown
     attributes:
