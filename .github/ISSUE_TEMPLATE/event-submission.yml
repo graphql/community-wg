@@ -1,0 +1,89 @@
+name: Event submission
+description: Share a meetup or conference with the GraphQL community
+title: "Event submission: "
+labels:
+  - event
+body:
+  - type: markdown
+    attributes:
+      value: >
+        Share your upcoming GraphQL gathering.
+        These details will be displayed on the Events & Meetups page so more people can find you.
+  - type: dropdown
+    id: event_type
+    attributes:
+      label: What kind of gathering is it?
+      options:
+        - Meetup
+        - Conference
+    validations:
+      required: true
+  - type: input
+    id: event_name
+    attributes:
+      label: Event name
+      placeholder: GraphQL Amsterdam
+    validations:
+      required: true
+  - type: textarea
+    id: event_summary
+    attributes:
+      label: What should people expect?
+      placeholder: A full day of GraphQL deep dives and hallway conversations in Amsterdam.
+  - type: input
+    id: event_start
+    attributes:
+      label: Start date and time
+      description: Include the timezone or UTC offset, for example 2025-09-08 09:00 CEST.
+      placeholder: 2025-09-08 09:00 CEST
+    validations:
+      required: true
+  - type: input
+    id: event_end
+    attributes:
+      label: End date or final session time
+      description: Useful for multi-day conferences or evening meetups with an end time.
+      placeholder: 2025-09-10 17:00 CEST
+  - type: input
+    id: location
+    attributes:
+      label: City and country (or Online)
+      placeholder: Amsterdam, Netherlands
+    validations:
+      required: true
+  - type: input
+    id: venue
+    attributes:
+      label: Venue or neighborhood
+      description: Optional context that helps locals plan their trip.
+      placeholder: Beurs van Berlage
+  - type: input
+    id: event_link
+    attributes:
+      label: Primary event or registration link
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: host_name
+    attributes:
+      label: Host organization or meetup group
+      placeholder: GraphQL Foundation
+    validations:
+      required: true
+  - type: input
+    id: host_link
+    attributes:
+      label: Host link
+      description: Website, meetup page, or social profile.
+      placeholder: https://www.meetup.com/amsterdam-graphql-meetup/
+  - type: input
+    id: contact
+    attributes:
+      label: Contact email or Discord username
+      placeholder: john.doe@example.com
+  - type: textarea
+    id: extras
+    attributes:
+      label: Anything else we should know?
+      description: CFP deadlines, sponsors, accessibility notes, or other context.
