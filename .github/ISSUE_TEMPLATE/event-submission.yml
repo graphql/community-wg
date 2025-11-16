@@ -78,7 +78,7 @@ body:
     attributes:
       label: Host link
       description: Website, meetup page, or social profile.
-      placeholder: https://www.meetup.com/amsterdam-graphql-meetup/
+      placeholder: https://
   - type: input
     id: contact
     attributes:
