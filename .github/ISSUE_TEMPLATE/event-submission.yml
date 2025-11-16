@@ -58,7 +58,7 @@ body:
     attributes:
       label: Venue or neighborhood
       description: Optional context that helps locals plan their trip.
-      placeholder: Beurs van Berlage
+      placeholder: VENUE INSTRUCTIONS
   - type: input
     id: event_link
     attributes:
