@@ -70,7 +70,7 @@ body:
     id: host_name
     attributes:
       label: Host organization or meetup group
-      placeholder: GraphQL Foundation
+      placeholder: YOUR_MEETUP_GROUP_OR_ORGANIZATION
     validations:
       required: true
   - type: input
