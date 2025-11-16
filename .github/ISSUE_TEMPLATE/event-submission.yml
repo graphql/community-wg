@@ -45,7 +45,7 @@ body:
     attributes:
       label: End date or final session time
       description: Useful for multi-day conferences or evening meetups with an end time.
-      placeholder: 2025-09-10 17:00 CEST
+      placeholder: 2026-01-01 23:59 UTC
   - type: input
     id: location
     attributes:
