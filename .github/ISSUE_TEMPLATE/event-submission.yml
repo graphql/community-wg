@@ -24,7 +24,7 @@ body:
     id: event_name
     attributes:
       label: Event name
-      placeholder: GraphQL Amsterdam
+      placeholder: GraphQL YOUR_CITY_HERE
     validations:
       required: true
   - type: textarea
