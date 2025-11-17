@@ -1,0 +1,91 @@
+name: Event submission
+description: Share a meetup or conference with the GraphQL community
+title: "Event submission: "
+labels:
+  - event
+assignees:
+  - jemgillam
+body:
+  - type: markdown
+    attributes:
+      value: >
+        Share your upcoming GraphQL gathering.
+        These details will be displayed on the Events & Meetups page so more people can find you.
+  - type: dropdown
+    id: event_type
+    attributes:
+      label: What kind of gathering is it?
+      options:
+        - Meetup
+        - Conference
+    validations:
+      required: true
+  - type: input
+    id: event_name
+    attributes:
+      label: Event name
+      placeholder: GraphQL YOUR_CITY_HERE
+    validations:
+      required: true
+  - type: textarea
+    id: event_summary
+    attributes:
+      label: What should people expect?
+      placeholder: A full day of GraphQL deep dives and hallway conversations in Amsterdam.
+  - type: input
+    id: event_start
+    attributes:
+      label: Start date and time
+      description: Include the timezone or UTC offset, for example 2025-09-08 09:00 CEST.
+      placeholder: 2026-01-01 00:00 UTC
+    validations:
+      required: true
+  - type: input
+    id: event_end
+    attributes:
+      label: End date or final session time
+      description: Useful for multi-day conferences or evening meetups with an end time.
+      placeholder: 2026-01-01 23:59 UTC
+  - type: input
+    id: location
+    attributes:
+      label: City and country (or Online)
+      placeholder: YOUR_CITY, YOUR_COUNTRY
+    validations:
+      required: true
+  - type: input
+    id: venue
+    attributes:
+      label: Venue or neighborhood
+      description: Optional context that helps locals plan their trip.
+      placeholder: VENUE INSTRUCTIONS
+  - type: input
+    id: event_link
+    attributes:
+      label: Primary event or registration link
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: host_name
+    attributes:
+      label: Host organization or meetup group
+      placeholder: YOUR_MEETUP_GROUP_OR_ORGANIZATION
+    validations:
+      required: true
+  - type: input
+    id: host_link
+    attributes:
+      label: Host link
+      description: Website, meetup page, or social profile.
+      placeholder: https://
+  - type: input
+    id: contact
+    attributes:
+      label: Contact email or Discord username
+      placeholder: john.doe@example.com
+  - type: textarea
+    id: extras
+    attributes:
+      label: Anything else we should know?
+      description: CFP deadlines, sponsors, accessibility notes, or other context.
