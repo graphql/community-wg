@@ -19,7 +19,7 @@ If you want to help posting content, we can invite you to the Typefully account.
 
 There are 4 posting slots every day, 2 for US times, 2 for EU times, based on what we found worked best. Avoid Fridays if possible as the engagement is lower.
 
-We generally aim to do 3-5 posts/week to keep our audience engaged while not spamming it.
+We generally aim to do 3-5 posts/channel/week to keep our audience engaged while not spamming it. That's roughly one post every week day.
 
 ## Tone of voice
 
