@@ -5,7 +5,7 @@ GraphQL is present on:
 - [Twitter](https://twitter.com/graphql)
 - [BlueSky](https://bsky.app/profile/graphql.org)
 - [LinkedIn](https://www.linkedin.com/company/graphql-foundation/)
-- [YouTube]()
+- [YouTube](https://www.youtube.com/@GraphQLTV)
 
 The community manages the publications through [Typefully](https://typefully.com/) (with a current experimentation with [Buffer](https://buffer.com/)).
 
