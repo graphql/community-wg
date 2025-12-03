@@ -3,7 +3,7 @@
 
 # Community Working Group — December 2025
 
-- **Date & Time**: [December 11, 2025, 8:00 – 9:00 AM PST](https://www.timeanddate.com/worldclock/converter.html?iso=20251211T160000&p1=224&p2=179&p3=136&p4=268&p5=367&p6=438&p7=248&p8=240)
+- **Date & Time**: [December 18, 2025, 8:00 – 9:00 AM PST](https://www.timeanddate.com/worldclock/converter.html?iso=20251211T160000&p1=224&p2=179&p3=136&p4=268&p5=367&p6=438&p7=248&p8=240)
   - View the [calendar][], or subscribe ([Google Calendar][], [ical file][]).
   - _Please Note:_ The date or time may change. Please check this agenda the
     week of the meeting to confirm. While we try to keep all calendars accurate,
@@ -20,8 +20,9 @@
 ## Attendees
 
 <!-- prettier-ignore -->
-| Name             | GitHub        | Organization       | Location              |
-| :--------------- | :------------ | :----------------- | :-------------------- |
+| Name          | GitHub       | Organization | Location  |
+|:--------------|:-------------|:-------------|:----------|
+| Martin Bonnin | martinbonnin | Apollo       | Paris, FR |
 
 
 ## Agenda
@@ -37,3 +38,6 @@
 1. Review agenda (2m, Host)
 1. Check for [ready for review agenda items](https://github.com/graphql/community-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc) (5m, Host)
 1. Reminder: [grants available for key initiatives](https://graphql.org/community/foundation/community-grant/) (1m, Host)
+1. Social media guide (10m, Martin)
+   - https://github.com/graphql/community-wg/pull/137
+1. Feedbacks from GraphQL Day Paris (10m, Martin)
