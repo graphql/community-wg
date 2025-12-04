@@ -13,7 +13,7 @@ The community manages the publications through [Typefully](https://typefully.com
 
 If you want to contribute content, please feel free to share ideas and links in the `#community-wg` channel on the [GraphQL Community Discord](https://discord.graphql.org), or the `#social-media` Slack channel. (The Discord is free to join. To join the Slack channel you must have a paid subscription to Slack, then you can be invited via Slack Connect - please open an issue in this repo and we'll request the relevant details to invite you.)
 
-If you want to help posting content, we can invite you to the Typefully account. Access is granted on a per-need basis, and decided by the current social media team. 
+If you'd like to help draft content for Bluesky, LinkedIn or Twitter/X, please sign up at Typefully.com and request an invite to the GraphQL Foundation's Typefully account via operations at graphql dot org.
 
 ## Posting frequency
 
