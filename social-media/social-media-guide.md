@@ -27,7 +27,7 @@ Our main goal is to create discussions about the GraphQL language and connect us
 
 Hot takes are allowed, but trolling and clickbait content are discouraged.
 
-Quoting/retweeting other community members is strongly encouraged as that increases the network effect. 
+Quoting/retweeting other community members is strongly encouraged as that increases the network effect. That being said, no single community member or vendor should receive disproportionate attention. The GraphQL foundation is a vendor neutral organization and must promote different groups and individual fairly.
 
 ## Example content
 
