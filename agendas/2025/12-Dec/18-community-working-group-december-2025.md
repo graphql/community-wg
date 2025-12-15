@@ -23,6 +23,9 @@
 | Name          | GitHub       | Organization | Location  |
 |:--------------|:-------------|:-------------|:----------|
 | Martin Bonnin | martinbonnin | Apollo       | Paris, FR |
+| Stefan Avram | - | WunderGraph | Miami, US |
+| Dev Parsons | - | WunderGraph | Saint Petersburgh, US |
+| Viola Marku | - | WunderGraph | London, UK |
 
 
 ## Agenda
