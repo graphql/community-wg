@@ -26,6 +26,8 @@
 | Stefan Avram | - | WunderGraph | Miami, US |
 | Dev Parsons | - | WunderGraph | Saint Petersburgh, US |
 | Viola Marku | - | WunderGraph | London, UK |
+| Michael Staib | michaelstaib | ChilliCream | Zurich, CH |
+| Pascal Senn | pascalsenn | ChilliCream | Zurich, CH |
 
 
 ## Agenda
