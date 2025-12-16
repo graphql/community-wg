@@ -22,12 +22,12 @@
 <!-- prettier-ignore -->
 | Name          | GitHub       | Organization | Location  |
 |:--------------|:-------------|:-------------|:----------|
-| Martin Bonnin | martinbonnin | Apollo       | Paris, FR |
+| Martin Bonnin | @martinbonnin | Apollo       | Paris, FR |
 | Stefan Avram | - | WunderGraph | Miami, US |
 | Dev Parsons | - | WunderGraph | Saint Petersburgh, US |
 | Viola Marku | - | WunderGraph | London, UK |
-| Michael Staib | michaelstaib | ChilliCream | Zurich, CH |
-| Pascal Senn | pascalsenn | ChilliCream | Zurich, CH |
+| Michael Staib | @michaelstaib | ChilliCream | Zurich, CH |
+| Pascal Senn | @pascalsenn | ChilliCream | Zurich, CH |
 
 
 ## Agenda
