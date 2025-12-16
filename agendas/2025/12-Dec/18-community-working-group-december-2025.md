@@ -26,6 +26,7 @@
 | Stefan Avram | - | WunderGraph | Miami, US |
 | Dev Parsons | - | WunderGraph | Saint Petersburgh, US |
 | Viola Marku | - | WunderGraph | London, UK |
+| Piotr Monwid-Olechnowicz | haspaus | The Guild | Wrocław, PL |
 
 
 ## Agenda
