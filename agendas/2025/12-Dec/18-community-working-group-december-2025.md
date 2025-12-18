@@ -29,6 +29,7 @@
 | Piotr Monwid-Olechnowicz | haspaus | The Guild | Wrocław, PL |
 | Michael Staib | @michaelstaib | ChilliCream | Zurich, CH |
 | Pascal Senn | @pascalsenn | ChilliCream | Zurich, CH |
+| Jem Gillam | @jemgillam | Graphile | Chandlers Ford, UK | 
 
 
 ## Agenda
