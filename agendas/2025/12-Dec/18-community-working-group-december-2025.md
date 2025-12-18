@@ -26,6 +26,7 @@
 | Stefan Avram | - | WunderGraph | Miami, US |
 | Dev Parsons | - | WunderGraph | Saint Petersburgh, US |
 | Viola Marku | - | WunderGraph | London, UK |
+| Piotr Monwid-Olechnowicz | haspaus | The Guild | Wrocław, PL |
 | Michael Staib | @michaelstaib | ChilliCream | Zurich, CH |
 | Pascal Senn | @pascalsenn | ChilliCream | Zurich, CH |
 
@@ -46,3 +47,4 @@
 1. Social media guide (2m, Martin)
    - https://github.com/graphql/community-wg/pull/137
 1. Feedbacks from GraphQL Day Paris (10m, Martin)
+1. New GraphQL.org [Resource Hub page](https://fabulous-isomorphism-git-resources-hub-hasparus-projects.vercel.app/resources/) (10m, Piotr)
