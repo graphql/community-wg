@@ -22,6 +22,7 @@
 <!-- prettier-ignore -->
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
+| Rigin Oommen     | @riginoommen  | Red Hat LLC        | India                 |
 
 
 ## Agenda
