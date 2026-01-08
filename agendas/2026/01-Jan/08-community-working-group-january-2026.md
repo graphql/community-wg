@@ -44,6 +44,7 @@
    - We need your content for social networks.
    - YouTube channel stats
    - GraphQL philly (https://luma.com/phillygraphql)
+   - https://graphql.org/community/events/
    - GraphQLConf dates!
 1. apidays NYC (1m, Martin)
    - https://github.com/graphql/community-wg/issues/140
