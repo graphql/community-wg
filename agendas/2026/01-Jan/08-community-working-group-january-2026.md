@@ -20,12 +20,13 @@
 ## Attendees
 
 <!-- prettier-ignore -->
-| Name             | GitHub        | Organization       | Location              |
-| :--------------- | :------------ | :----------------- | :-------------------- |
-| Rigin Oommen     | @riginoommen  | Red Hat LLC        | India                 |
-| Martin Bonnin    | @martinbonnin | Apollo             | France                |
-| Erik Wrede       | @erikwrede    | Self               | Germany               |
-| Jem Gillam       | @jemgillam    | Graphile           | UK                    | 
+| Name             | GitHub         | Organization       | Location              |
+| :--------------- | :------------- | :----------------- | :-------------------- |
+| Rigin Oommen     | @riginoommen   | Red Hat LLC        | India                 |
+| Martin Bonnin    | @martinbonnin  | Apollo             | France                |
+| Erik Wrede       | @erikwrede     | Self               | Germany               |
+| Jem Gillam       | @jemgillam     | Graphile           | UK                    | 
+| Jean Lucas       | @jeanlucaslima | Viaduct            | Brazil                | 
 
 
 ## Agenda
