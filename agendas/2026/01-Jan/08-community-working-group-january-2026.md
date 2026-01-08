@@ -23,6 +23,7 @@
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Rigin Oommen     | @riginoommen  | Red Hat LLC        | India                 |
+| Martin Bonnin    | @martinbonnin | Apollo             | France                |
 
 
 ## Agenda
@@ -37,3 +38,8 @@
 1. Determine volunteers for note taking (1m, Host)
 1. Review agenda (2m, Host)
 1. Check for [ready for review agenda items](https://github.com/graphql/community-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc) (5m, Host)
+1. Announcements (5m, Martin)
+   - GraphQL weekly is coming back!
+   - We need your content for social networks.
+   - YouTube channel stats
+   - GraphQL philly (https://luma.com/phillygraphql)
