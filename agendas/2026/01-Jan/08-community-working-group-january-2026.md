@@ -24,6 +24,7 @@
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Rigin Oommen     | @riginoommen  | Red Hat LLC        | India                 |
 | Martin Bonnin    | @martinbonnin | Apollo             | France                |
+| Erik Wrede       | @erikwrede    | Self               | Germany               |
 
 
 ## Agenda
