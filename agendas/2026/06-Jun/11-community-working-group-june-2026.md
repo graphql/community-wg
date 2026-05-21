@@ -20,9 +20,9 @@
 ## Attendees
 
 <!-- prettier-ignore -->
-| Name             | GitHub        | Organization       | Location              |
-| :--------------- | :------------ | :----------------- | :-------------------- |
-
+  | Name             | GitHub        | Organization       | Location              |
+  | :--------------- | :------------ | :----------------- | :-------------------- |
+  | Joe Heath        | JHeat89       | Ally               | Charlotte, NC         |
 
 ## Agenda
 
