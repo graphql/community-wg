@@ -22,6 +22,7 @@
 <!-- prettier-ignore -->
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
+| Salomé Ruckstuhl | https://github.com/salome-ruckstuhl | ChilliCream | Switzerland |
 | Jem              | jemgillam     | Graphile           | Chandlers Ford, UK    | 
 
 ## Agenda
