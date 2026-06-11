@@ -24,6 +24,7 @@
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Salomé Ruckstuhl | https://github.com/salome-ruckstuhl | ChilliCream | Switzerland |
 | Jem              | jemgillam     | Graphile           | Chandlers Ford, UK    | 
+| Martin Bonnin              | martinbonnin     | Apollo           | Paris, FR | 
 
 ## Agenda
 
