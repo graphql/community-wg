@@ -438,12 +438,14 @@
     * GraphQL Ruby
     * Graphene
     * Hot Chocolate
+    * Houndini
     * Juniper
     * Lighthouse
     * Mercurius
     * Netflix DGS
     * PostGraphile
     * Pothos
+    * RedwoodJS
     * Spring for GraphQL
     * Strawberry GraphQL
     * Yoga
@@ -460,6 +462,7 @@
     * Caliban
     * Ferry
     * Graphaello
+    * Houdini
     * Relay
     * Strawberry Shake
     * TanStack Query
