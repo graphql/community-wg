@@ -344,31 +344,39 @@
 * Language
     * Custom directives
     * Custom scalars
+    * Fragment arguments
     * Fragments
-    * Unions
     * Interfaces
+    * Operation descriptions
+    * Unions
 * Directives
-    * @skip
-    * @include
-    * @deprecated
-    * @specifiedBy
     * @defer
+    * @deprecated
+    * @include
+    * @oneOf
+    * @semanticNonNull
+    * @skip
+    * @specifiedBy
     * @stream
 * Security & performance
-    * Persisted queries
-    * Automatic Persisted Queries (APQ)
-    * Timeouts
-    * Rate limiting
-    * Depth limiting
-    * Cost analysis
-    * Disabling introspection
-    * IP allow-listing
     * Authentication
+    * Automatic Persisted Queries (APQ)
+    * CDN caching
+    * Client side caching
+    * Cost analysis
+    * Depth limiting
+    * Disabling introspection
+    * Entity caching
+    * IP allow-listing
+    * Persisted Queries
+    * Rate limiting
+    * Timeouts
 * Other
-    * Subscriptions
-    * Live queries
     * Federation
+    * Live queries
     * Schema stitching
+    * Subscriptions
+    * `application/graphql+json` media type
 
 ## Agentic & AI usage
 
@@ -389,20 +397,20 @@
 
 ### What kind of AI coding assistants do you use to write your GraphQL schemas, resolvers, or queries?
 
+* Claude Code
+* Codex
 * Copilot
 * Cursor
-* Codex
-* Claude Code
 * Windsurf
 * Other
 
 ### What concerns you most about AI agents querying your GraphQL API? Check all that apply.
 
-* Unbounded/expensive queries from agents
-* Query depth or complexity abuse
 * Authentication/authorization scoping for agents vs. humans
+* Query depth or complexity abuse
 * Rate limiting agent traffic separately from human traffic
 * Schema/field descriptions not being clear enough for an LLM to use correctly
+* Unbounded/expensive queries from agents
 * No particular concerns
 * Other: \_\_\_
 
@@ -416,136 +424,113 @@
 
 ### The next couple sections focus on the \*\*libraries\*\* and \*\*services\*\* that make up the GraphQL ecosystem. Let us know what you're excited about\!
 
-* *`# - Never heard of it`*
-* *`# - Have heard, but not interested`*
-* *`# - Have heard, and interested in learning`*
-* *`# - Have used, but wouldn't use again`*
-* *`# - Have used, and would use again`*
+* Never heard of it
+* Have heard, but not interested
+* Have heard, and interested in learning
+* Have used, but wouldn't use again
+* Have used, and would use again
 
 * Servers
+    * AWS AppSync
     * Apollo server
-    * Yoga
-    * Hot Chocolate
-    * GraphQL DotNet
-    * Spring for GraphQL
-    * Netflix DGS
-    * GraphQL Ruby
-    * Mercurius
-    * gqlgen
-    * async-graphql
-    * Juniper
-    * Strawberry GraphQL
-    * Graphene
     * Ariadne
+    * GraphQL DotNet
+    * GraphQL Ruby
+    * Graphene
+    * Hot Chocolate
+    * Juniper
     * Lighthouse
+    * Mercurius
+    * Netflix DGS
     * PostGraphile
+    * Pothos
+    * Spring for GraphQL
+    * Strawberry GraphQL
+    * Yoga
+    * async-graphql
+    * gqlgen
     * Other
 * Clients
-    * `Apollo Client`
-    * `Relay`
-    * `urql`
-    * `TanStack Query`
-    * `graphql-request`
-    * `GraphQL Hooks`
-    * `Apollo Angular`
-    * `vue-apollo`
-    * `Apollo Kotlin`
-    * `Apollo iOS`
-    * `Strawberry Shake`
-    * `Amplify API (GraphQL)`
-    * `No GraphQL client library`
-    * `Other`
-* API generators
-    * `postgraphile`
-    * `hasura`
-    * `graphcms`
-    * `datocms`
-    * `sanity`
-    * `wpgraphql`
-    * `wundergraph`
-    * `fauna`
-    * `dgraph`
-    * `graphql_editor`
-    * `strapi`
-    * `appsync`
-    * `contentful`
-    * `graphene`
-    * `Graphql_mesh`
-    * `other`
+    * Amplify API (GraphQL)
+    * Apollo Angular
+    * Apollo Client
+    * Apollo Kotlin
+    * Apollo iOS
+    * Ariadne
+    * Caliban
+    * Ferry
+    * Graphaello
+    * Relay
+    * Strawberry Shake
+    * TanStack Query
+    * gql.tada
+    * graphql-request
+    * urql
+    * No GraphQL client library
+    * Other
 * GraphQL Gateways
-    * `Apollo Router`
-    * `Hive Router`
-    * `Cosmo Router`
-    * `Fusion Gateway`
-    * `IBM Stepzen`
-    * `Mulesoft`
-    * `Feddi`
-* `Batching`
-    * `DataLoader`
-    * `Batch Resolver`
-    * `GraphQL to Database Query`
-    * `None`
-    * `Other`
+    * Apollo Gateway
+    * Apollo Router
+    * Hive Router
+    * Cosmo Router
+    * Fusion Gateway
+    * IBM Stepzen
+    * Mulesoft
+    * Feddi
+    * Other
+* Batching
+    * DataLoader
+    * Batch Resolver
+    * GraphQL to Database Query
+    * None
+    * Other
 * Databases
-    * `mysql`
-    * `sqlite`
-    * `postgresql`
-    * `neo4j`
-    * `redis`
-    * `mongodb`
-    * `elasticsearch`
-    * `Dynamodb`
+    * Dynamodb
+    * Elasticsearch
+    * Mongodb
+    * MySQL
+    * Neo4j
+    * PostgreSQL 
+    * Redis
+    * Sqlite
+    * Other
 * Languages
-    * `JavaScript`
-    * `TypeScript`
-    * `C#`
-    * `Java`
-    * `Go`
-    * `Python`
-    * `PHP`
-    * `Ruby`
-    * `Rust`
-    * `Kotlin`
-    * `Scala`
-    * `Swift`
-    * `Dart`
-    * `Elixir`
-    * `C/C++`
-    * `Objective-C`
-    * `Clojure`
-    * `Haskell`
-    * `OCaml`
-    * `Julia`
-    * `Other`
+    * C#
+    * C/C++
+    * Clojure
+    * Dart
+    * Elixir
+    * Go
+    * Haskell
+    * Java
+    * JavaScript
+    * Julia
+    * Kotlin
+    * OCaml
+    * Objective-C
+    * PHP
+    * Python
+    * Ruby
+    * Rust
+    * Scala
+    * Swift
+    * TypeScript
+    * Other
 * IDEs
-    * `GraphiQL`
-    * `Apollo Sandbox`
-    * `Apollo Studio`
-    * `Altair`
-    * `Postman`
-    * `Insomnia`
-    * `Nitro`
-    * `GraphQL Playground`
-    * `GraphQL Editor`
-    * `Bruno`
-    * `Hoppscotch`
-    * `VS Code GraphQL Extension`
-    * `Other`
-* Other
-    * `envelop`
-    * `graphql_shield`
-    * `dataloader`
-    * `apollo_datasources`
-    * `graphql_voyager`
-    * `graphqurl`
-    * `stellate`
-    * `apollo_client_devtools`
-    * `graphql_hive`
-    * `graphql_inspector`
-    * `graphql_scalars`
-    * `graphql_config`
-    * `prisma`
-    * `graphql_eslint`
+    * Altair
+    * Apollo Sandbox
+    * Apollo Studio
+    * Bruno
+    * GraphQL Editor
+    * GraphQL Playground
+    * GraphiQL
+    * Hoppscotch
+    * Insomnia
+    * Nitro
+    * Postman
+    * VS Code GraphQL Extension
+    * Other
+
 
 ## Usage
 
