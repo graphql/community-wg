@@ -369,6 +369,7 @@
     * Entity caching
     * IP allow-listing
     * Persisted Queries
+    * Safelisting
     * Rate limiting
     * Timeouts
 * Other
@@ -438,12 +439,14 @@
     * GraphQL Ruby
     * Graphene
     * Hot Chocolate
+    * Houdini
     * Juniper
     * Lighthouse
     * Mercurius
     * Netflix DGS
     * PostGraphile
     * Pothos
+    * RedwoodJS
     * Spring for GraphQL
     * Strawberry GraphQL
     * Yoga
@@ -460,6 +463,7 @@
     * Caliban
     * Ferry
     * Graphaello
+    * Houdini
     * Relay
     * Strawberry Shake
     * TanStack Query
