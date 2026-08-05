@@ -369,6 +369,7 @@
     * Entity caching
     * IP allow-listing
     * Persisted Queries
+    * Safelisting
     * Rate limiting
     * Timeouts
 * Other
