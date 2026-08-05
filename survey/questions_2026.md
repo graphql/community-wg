@@ -439,7 +439,7 @@
     * GraphQL Ruby
     * Graphene
     * Hot Chocolate
-    * Houndini
+    * Houdini
     * Juniper
     * Lighthouse
     * Mercurius
