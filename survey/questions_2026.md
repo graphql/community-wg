@@ -359,17 +359,17 @@
     * @specifiedBy
     * @stream
 * Security & performance
-    * Authentication
+    * Persisted Queries (transport protocol sending an id instead of a document)
     * Automatic Persisted Queries (APQ)
     * CDN caching
+    * Entity caching
     * Client side caching
+    * Authentication
+    * Query Safelisting (security feature)
     * Cost analysis
     * Depth limiting
     * Disabling introspection
-    * Entity caching
     * IP allow-listing
-    * Persisted Queries
-    * Safelisting
     * Rate limiting
     * Timeouts
 * Other
