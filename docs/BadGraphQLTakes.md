@@ -2,7 +2,7 @@ A collection of articles and posts pushing back on GraphQL.
 
 Because understanding the criticism is the best way to improve the technology where it matters. 
 
-
+* 2026-11: [A technology designed to avoid a conversation](https://mastodon.mbonnin.net/@janl@narrativ.es/117588265617017005) on mastodon
 * 2026-07: [GraphQL: The leakiest of abstractions](https://var0.xyz/posts/graphql-leakiest-abstraction.html) on var0
 * 2026-05: [Graphql is genuinely the most retarded idea ever](https://x.com/yacineMTB/status/2058399598826209673) on X
 * 2026-04: [GraphQL: the query tax](https://www.linkedin.com/posts/vvoss_theinvoice-graphql-api-share-7443197201607966720-OaOp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA6WEcBcNJ3V-S-OaOkEY8vBAnsxJSskQ0) on LinkedIn
